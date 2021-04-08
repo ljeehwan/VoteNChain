@@ -286,14 +286,14 @@ export default {
         }
       this.chartData[parseInt(receiveMessage.sender) + 1][1]++;
       this.chartData[parseInt(receiveMessage.sender) + 1][2] = this.color;
-      // this.chartData.push([receiveMessage.sender, count + 1]);
       // jjh_test
       this.chartData = this.chartData.map((item, index) => {
+        console.log("index" +index +"sender" + parseInt(receiveMessage.sender));
         if (index != parseInt(receiveMessage.sender) || index == 0) {
           return item;
         }
         return item.map((item, index) => {
-          if (index !== 0) {
+          if (index !== 0 && index !== 2) {
             return item++;
           }
           return item;
