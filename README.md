@@ -6,8 +6,7 @@
 </div>
 <img src="images/main.png" align=center>
 
-<h3><a href="https://votenchain.tk">DEMO 바로가기</a></h3>
-<h3><a href="https://youtu.be/bYXbropDL0E">UCC 바로가기</a></h3>
+<h3><a href="https://youtu.be/Bn3WOu-Xw2M">프로젝트 소개 및 시연영상</a></h3>
 
 <div>
   	Vote&Chain에서는 블록체인의 특징과 스마트 컨트랙트를 활용하여 안전하게 투표 데이터가 관리됩니다.<br>
