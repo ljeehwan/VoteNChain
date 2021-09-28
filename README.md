@@ -1,4 +1,4 @@
-<h1 align="center">A306 - Vote&Chain</h1>
+<h1 align="center">Vote&Chain</h1>
 
 <div align=center>
     <img src="https://img.shields.io/badge/version-1.0.0-blue">
